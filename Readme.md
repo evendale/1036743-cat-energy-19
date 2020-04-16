@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Денис Бычков](https://up.htmlacademy.ru/adaptive/19/user/1036743).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Шабельников](https://htmlacademy.ru/profile/id292541).
 
 ---
 
